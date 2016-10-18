@@ -1,6 +1,6 @@
 {
   "name": "Quadglide f4",
   "tagline": "Just another flight controller for racing multirotors",
-  "body": "### Welcome to QuadGlide F4 flight controller GitHub Pages.\r\n",
+  "body": "### Welcome to QuadGlideF4 flight controller GitHub Pages.\r\n***\r\n\r\nI started to design the QuadGlideF4 just to learn more how a flight controller works and get one that would fit my needs.\r\nAlso a wanted one that is robust and will not break if have have a ESC fire or reverse the battery polarity. It will not implement any new functions that are not already out there. For now I'm using KISS ESC so it will have a 1-wire bus to get telemetry. \r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
